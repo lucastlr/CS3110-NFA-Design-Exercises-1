@@ -1,5 +1,5 @@
 # CS3110 NFA Design Exercises 1
-Lucas Taylor
+Lucas Taylor  
 CS 3110.01-1
 ## Problems:
 1. (#6) {string s| s starts with 10 } 
